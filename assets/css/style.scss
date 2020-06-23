@@ -39,6 +39,10 @@
 /*--------------------------------------------------------------
 # View on GitHub 
 ----------------------------------------------------------------*/
+.view-on-github-btn-li {
+  list-style: none;
+}
+
 .view-on-github-btn {
   margin-left: 15px;
   background: #545454;
@@ -50,7 +54,6 @@
   font-size: 13px;
   display: inline-block;
   border: 2px solid #cdd1d9;
-  list-style: none;
 }
 
 .view-on-github-btn:hover {
