@@ -39,10 +39,9 @@
 /*--------------------------------------------------------------
 # View on GitHub 
 ----------------------------------------------------------------*/
-
 .view-on-github-btn {
   margin-left: 15px;
-  background: #e96b56;
+  background: #545454;
   color: #fff;
   border-radius: 4px;
   padding: 4px 10px 4px 10px;
@@ -54,9 +53,9 @@
 }
 
 .view-on-github-btn:hover {
-  background: #545454;
+  background: #e96b56;
   color: #fff;
-  border-color: #e96b56;
+  border-color: #545454;
   text-decoration: none;
 }
 
